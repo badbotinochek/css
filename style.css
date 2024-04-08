@@ -1,0 +1,28 @@
+* {
+  color: green;
+}
+
+p {
+  background-color: aqua;
+}
+
+h1 {
+  color: bisque;
+  font-size: 40px;
+}
+
+.highlight {
+  background-color: brown;
+}
+
+.bolt {
+  font-weight: bold;
+}
+
+#mainHeading {
+  background-color: blue;
+}
+
+#mainP {
+  color: blue;
+}
